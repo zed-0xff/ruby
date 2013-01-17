@@ -61,7 +61,7 @@
 #
 # == Implementation:
 #
-# An OpenStruct utilizes Ruby's method lookup structure to and find and define
+# An OpenStruct utilizes Ruby's method lookup structure to find and define
 # the necessary methods for properties. This is accomplished through the method
 # method_missing and define_method.
 #
